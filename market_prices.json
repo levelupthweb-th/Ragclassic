@@ -3,6 +3,7 @@
         "item_name": "& Divine Cloth",
         "price": 5000000,
         "image_url": "https://static.divine-pride.net/images/items/item/2366.png"
+         "stats": ["AGI +4", "VIT +3"]
     },
     {
         "item_name": "& Divine Cloth",
