@@ -99,6 +99,7 @@
         "item_name": "LO Flower Ring",
         "price": 2000000,
         "image_url": "https://static.divine-pride.net/images/items/item/2612.png"
+         "stats": ["AGI +4", "VIT +3"]
     },
     {
         "item_name": "LO Flower Ring",
